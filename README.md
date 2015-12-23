@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/joren/capistrano-logstash.svg?branch=master)](https://travis-ci.org/joren/capistrano-logstash)
+[![PullReview stats](https://www.pullreview.com/github/joren/capistrano-logstash/badges/master.svg?)](https://www.pullreview.com/github/joren/capistrano-logstash/reviews/master)
 
 # Capistrano::Logstash
 
